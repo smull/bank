@@ -132,3 +132,13 @@ body {
     color: white;
 }
 
+
+#msform input.error {
+    border: 1px solid red;
+}
+
+#msform select.error {
+    border: 1px solid red;
+}
+
+
